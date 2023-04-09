@@ -1,3 +1,8 @@
+### About
+This is a respository that uploads file to IPFS using thirdweb. The file will be given by the user and there is a simple interface to complete this task.
+
+(These came with the command npx thirdweb create)
+
 ## Getting Started
 
 Create a project using this example:
